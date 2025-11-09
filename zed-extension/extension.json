@@ -1,0 +1,9 @@
+{
+  "name": "hyper-term-black",
+  "display_name": "Hyper Term Black",
+  "description": "Hyper Term Black theme ported from the VS Code extension.",
+  "version": "0.0.1",
+  "authors": ["HasseNasse", "Community"],
+  "repository": "https://github.com/HasseNasse/hyper-term-theme",
+  "themes": ["themes/hyper-term-black.zed-theme.json"]
+}

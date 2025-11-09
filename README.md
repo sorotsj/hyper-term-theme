@@ -26,3 +26,7 @@ HyperTerm inspired VSCode theme with vivid syntaxcolors and a pitch black UI. _D
     "editor.renderLineHighlight": "none"
 }
 ```
+
+## Zed
+
+Copy `themes/hyper-term-black.zed-theme.json` into your Zed configuration directory (typically `~/.config/zed/themes/`) and select **Hyper Term Black** from the theme picker.
